@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=LeeElijah&fontSize=60)
+#![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=LeeElijah&fontSize=60)
 ## SNS
-<a href="https://icy-tarsal-d48.notion.site/1e048c2d951780fea875ea2d7abfb377" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://leeelijah.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
+#<a href="https://icy-tarsal-d48.notion.site/1e048c2d951780fea875ea2d7abfb377" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-#square&logo=notion&logoColor=white"/></a>
+#<a href="https://leeelijah.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldydtjd9)](https://solved.ac/dldydtjd9)
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeYongSung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYongSung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+#[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldydtjd9)](https://solved.ac/dldydtjd9)
+#<p>
+# <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeYongSung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+#  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYongSung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+#</p>
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&text=Welcome&desc=elijah&animation=fadeIn&fontColor=000000&fontSize=60" />
@@ -16,8 +16,8 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FullStak Developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-      <li>안녕하세요. </li>
-      <li>다양한 이커머스 플랫폼과 내부 시스템을 개발하였으며 기획부터 디자인, 프론트엔드, 백엔드, 서버 인프라 구성까지 전 과정을 직접 구축해 온 풀스택 개발자 장우석입니다.</li> 
+      <p>안녕하세요.
+      다양한 이커머스 플랫폼과 내부 시스템을 개발하였으며 기획부터 디자인, 프론트엔드, 백엔드, 서버 인프라 구성까지 전 과정을 직접 구축해 온 풀스택 개발자 장우석입니다.</p> 
     </div> 
 </div>
 <div align= "center">
