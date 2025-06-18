@@ -79,12 +79,12 @@
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
       <div align= "center"> 
         <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=elijah9212&bg_color=60,ffffff,5294ff&title_color=575757&text_color=575757"/> 
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah9212&layout=compact&bg_color=60,ffffff,5294ff&title_color=575757&text_color=575757"/>  
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeYongSung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijah9212&bg_color=60,ffffff,5294ff&title_color=575757&text_color=575757"/> 
         </p>
         <p>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeYongSung&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYongSung&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah9212&layout=compact&bg_color=60,ffffff,5294ff&title_color=575757&text_color=575757"/>  
         </p> 
       </div> 
     </div>
