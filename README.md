@@ -21,92 +21,76 @@
       다양한 이커머스 플랫폼과 내부 시스템을 개발하였으며 기획부터 디자인, 프론트엔드, 백엔드, 서버 인프라 구성까지 전 과정을 직접 구축해 온 풀스택 개발자 장우석입니다.</p> 
     </div> 
 </div>
-<div align= "center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-  <div style="margin: 0 auto; text-align: center;" align= "center"> 
-    <!-- Design -->
-    <div align="center">
-      <p><strong>🎨 Design</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-      </div>
-    </div>
 
-    <!-- Collaboration -->
-    <div align="center">
-      <p><strong>📋 Collaboration & Productivity</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-      </div>
-    </div>
-    
-    <!-- FrontEnd -->
-    <div align="center">
-      <p><strong>💻 FrontEnd</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
-      </div>
-    </div>
-    
-    <!-- BackEnd -->
-    <div align="center">
-      <p><strong>🛠️ BackEnd</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
-      </div>
-    </div>
-    
-    <!-- DevOps / Infra -->
-    <div align="center">
-      <p><strong>🚀 DevOps & Infra</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
-      </div>
-    </div>
-    
-    <!-- DB -->
-    <div align="center">
-      <p><strong>🗃️ Database</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-      </div>
-    </div>
-    
-    <!-- Etc -->
-    <div align="center">
-      <p><strong>🔧 Etc</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-      </div>
-    </div>
+<div align="center">
+  <h2>🛠️ Tech Stacks</h2><br>
 
-    <br/>
+  <!-- 🎨 Design -->
+  <div>
+    <p><strong>🎨 Design</strong></p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+  </div>
+
+  <!-- 📋 Collaboration & Productivity -->
+  <div>
+    <p><strong>📋 Collaboration & Productivity</strong></p>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+  </div>
+
+  <!-- 💻 FrontEnd -->
+  <div>
+    <p><strong>💻 FrontEnd</strong></p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+  </div>
+
+  <!-- 🛠️ BackEnd -->
+  <div>
+    <p><strong>🛠️ BackEnd</strong></p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
+  </div>
+
+  <!-- 🚀 DevOps & Infra -->
+  <div>
+    <p><strong>🚀 DevOps & Infra</strong></p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
+  </div>
+
+  <!-- 🗃️ Database -->
+  <div>
+    <p><strong>🗃️ Database</strong></p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+  </div>
+
+  <!-- 🔧 Tools -->
+  <div>
+    <p><strong>🔧 Tools</strong></p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
   </div>
 </div>
-</div>
+
 
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
