@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome&desc=LeeElijah&fontSize=60)
 ## SNS
-<a href="https://leeelijah.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://icy-tarsal-d48.notion.site/1e048c2d951780fea875ea2d7abfb377" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://leeelijah.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-E74C3C?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 
