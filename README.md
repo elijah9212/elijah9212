@@ -30,7 +30,8 @@
     <p><strong>🎨 Design</strong></p>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
   </div>
-
+ <br/>
+ 
   <!-- 📋 Collaboration & Productivity -->
   <div>
     <p><strong>📋 Collaboration & Productivity</strong></p>
@@ -39,6 +40,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
   </div>
+  <br/>
 
   <!-- 💻 FrontEnd -->
   <div>
@@ -54,6 +56,7 @@
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
   </div>
+  <br/>
 
   <!-- 🛠️ BackEnd -->
   <div>
@@ -66,6 +69,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
   </div>
+  <br/>
 
   <!-- 🚀 DevOps & Infra -->
   <div>
@@ -75,6 +79,7 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   </div>
+  <br/>
 
   <!-- 🗃️ Database -->
   <div>
@@ -85,6 +90,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1L?style=flat&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
   </div>
+  <br/>
 
   <!-- 🔧 Tools -->
   <div>
@@ -93,6 +99,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
   </div>
 </div>
+<br/>
 
 
 <div align= "center">
